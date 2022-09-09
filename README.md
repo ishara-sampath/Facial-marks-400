@@ -5,11 +5,11 @@
 # 1
 pip install opencv-python
 
-2#
+# 2
 pip install cmake
 
-3#
+# 3
 pip install wheel
 
-4#
+# 4
 pip install dlib
