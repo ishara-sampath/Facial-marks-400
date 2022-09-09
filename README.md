@@ -13,3 +13,6 @@ pip install wheel
 
 # 4
 pip install dlib
+
+# to get file
+https://github.com/shuvamdas/human-activity-recognition/blob/master/resnet-34_kinetics.onnx
